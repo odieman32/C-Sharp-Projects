@@ -1,0 +1,8 @@
+D:\C# Class\Activity 7.1 Console Apps\TemperaturesComparison\TemperaturesComparison\bin\Debug\TemperaturesComparison.exe.config
+D:\C# Class\Activity 7.1 Console Apps\TemperaturesComparison\TemperaturesComparison\bin\Debug\TemperaturesComparison.exe
+D:\C# Class\Activity 7.1 Console Apps\TemperaturesComparison\TemperaturesComparison\bin\Debug\TemperaturesComparison.pdb
+D:\C# Class\Activity 7.1 Console Apps\TemperaturesComparison\TemperaturesComparison\obj\Debug\TemperaturesComparison.csproj.AssemblyReference.cache
+D:\C# Class\Activity 7.1 Console Apps\TemperaturesComparison\TemperaturesComparison\obj\Debug\TemperaturesComparison.csproj.SuggestedBindingRedirects.cache
+D:\C# Class\Activity 7.1 Console Apps\TemperaturesComparison\TemperaturesComparison\obj\Debug\TemperaturesComparison.csproj.CoreCompileInputs.cache
+D:\C# Class\Activity 7.1 Console Apps\TemperaturesComparison\TemperaturesComparison\obj\Debug\TemperaturesComparison.exe
+D:\C# Class\Activity 7.1 Console Apps\TemperaturesComparison\TemperaturesComparison\obj\Debug\TemperaturesComparison.pdb

@@ -1,0 +1,18 @@
+D:\C# Class\Activity 2.1\Activity 2.1\bin\Debug\Activity 2.1.exe.config
+D:\C# Class\Activity 2.1\Activity 2.1\bin\Debug\Activity 2.1.exe
+D:\C# Class\Activity 2.1\Activity 2.1\bin\Debug\Activity 2.1.pdb
+D:\C# Class\Activity 2.1\Activity 2.1\obj\Debug\Activity 2.1.csproj.AssemblyReference.cache
+D:\C# Class\Activity 2.1\Activity 2.1\obj\Debug\Activity 2.1.csproj.SuggestedBindingRedirects.cache
+D:\C# Class\Activity 2.1\Activity 2.1\obj\Debug\Activity_2._1.InchesToCentimeters.resources
+D:\C# Class\Activity 2.1\Activity 2.1\obj\Debug\Activity_2._1.Properties.Resources.resources
+D:\C# Class\Activity 2.1\Activity 2.1\obj\Debug\Activity 2.1.csproj.GenerateResource.cache
+D:\C# Class\Activity 2.1\Activity 2.1\obj\Debug\Activity 2.1.csproj.CoreCompileInputs.cache
+D:\C# Class\Activity 2.1\Activity 2.1\obj\Debug\Activity 2.1.exe
+D:\C# Class\Activity 2.1\Activity 2.1\obj\Debug\Activity 2.1.pdb
+D:\C# Class\Activity 2.1\Activity 2.1\obj\Debug\Activity_2._1.ProjectRaises.resources
+D:\C# Class\Activity 2.1\Activity 2.1\obj\Debug\Activity_2._1.MoveEstimator.resources
+D:\C# Class\Activity 2.1\Activity 2.1\obj\Debug\Activity_2._1.EggsInteractive.resources
+D:\C# Class\Activity 2.1\Activity 2.1\obj\Debug\Activity_2._1.MakeChange.resources
+D:\C# Class\Activity 2.1\Activity 2.1\obj\Debug\Activity_2._1.TestsInteractive.resources
+D:\C# Class\Activity 2.1\Activity 2.1\obj\Debug\Activity_2._1.MonthNames.resources
+D:\C# Class\Activity 2.1\Activity 2.1\obj\Debug\Activity_2._1.PigLatin.resources

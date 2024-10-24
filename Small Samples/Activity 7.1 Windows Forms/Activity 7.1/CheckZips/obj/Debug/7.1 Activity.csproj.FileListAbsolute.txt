@@ -1,0 +1,12 @@
+F:\C# Class\Activity 7.1 Windows Forms\Activity 7.1\CheckZips\bin\Debug\CheckZips.exe.config
+F:\C# Class\Activity 7.1 Windows Forms\Activity 7.1\CheckZips\bin\Debug\CheckZips.exe
+F:\C# Class\Activity 7.1 Windows Forms\Activity 7.1\CheckZips\bin\Debug\CheckZips.pdb
+F:\C# Class\Activity 7.1 Windows Forms\Activity 7.1\CheckZips\obj\Debug\7.1 Activity.csproj.AssemblyReference.cache
+F:\C# Class\Activity 7.1 Windows Forms\Activity 7.1\CheckZips\obj\Debug\CheckZips.CheckZips.resources
+F:\C# Class\Activity 7.1 Windows Forms\Activity 7.1\CheckZips\obj\Debug\CheckZips.DeliveryCharges.resources
+F:\C# Class\Activity 7.1 Windows Forms\Activity 7.1\CheckZips\obj\Debug\CheckZips.Properties.Resources.resources
+F:\C# Class\Activity 7.1 Windows Forms\Activity 7.1\CheckZips\obj\Debug\7.1 Activity.csproj.GenerateResource.cache
+F:\C# Class\Activity 7.1 Windows Forms\Activity 7.1\CheckZips\obj\Debug\7.1 Activity.csproj.CoreCompileInputs.cache
+F:\C# Class\Activity 7.1 Windows Forms\Activity 7.1\CheckZips\obj\Debug\CheckZips.exe
+F:\C# Class\Activity 7.1 Windows Forms\Activity 7.1\CheckZips\obj\Debug\CheckZips.pdb
+F:\C# Class\Activity 7.1 Windows Forms\Activity 7.1\CheckZips\obj\Debug\CheckZips.ResortPrices.resources

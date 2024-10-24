@@ -1,0 +1,10 @@
+E:\C# Class\Loop In-Class\Loop In-Class\bin\Debug\Loop In-Class.exe.config
+E:\C# Class\Loop In-Class\Loop In-Class\bin\Debug\Loop In-Class.exe
+E:\C# Class\Loop In-Class\Loop In-Class\bin\Debug\Loop In-Class.pdb
+E:\C# Class\Loop In-Class\Loop In-Class\obj\Debug\Loop In-Class.csproj.AssemblyReference.cache
+E:\C# Class\Loop In-Class\Loop In-Class\obj\Debug\Loop_In_Class.Form1.resources
+E:\C# Class\Loop In-Class\Loop In-Class\obj\Debug\Loop_In_Class.Properties.Resources.resources
+E:\C# Class\Loop In-Class\Loop In-Class\obj\Debug\Loop In-Class.csproj.GenerateResource.cache
+E:\C# Class\Loop In-Class\Loop In-Class\obj\Debug\Loop In-Class.csproj.CoreCompileInputs.cache
+E:\C# Class\Loop In-Class\Loop In-Class\obj\Debug\Loop In-Class.exe
+E:\C# Class\Loop In-Class\Loop In-Class\obj\Debug\Loop In-Class.pdb

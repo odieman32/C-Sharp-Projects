@@ -1,0 +1,10 @@
+F:\C# Class\CheckZips\CheckZips\bin\Debug\CheckZips.exe.config
+F:\C# Class\CheckZips\CheckZips\bin\Debug\CheckZips.exe
+F:\C# Class\CheckZips\CheckZips\bin\Debug\CheckZips.pdb
+F:\C# Class\CheckZips\CheckZips\obj\Debug\CheckZips.csproj.AssemblyReference.cache
+F:\C# Class\CheckZips\CheckZips\obj\Debug\CheckZips.Form1.resources
+F:\C# Class\CheckZips\CheckZips\obj\Debug\CheckZips.Properties.Resources.resources
+F:\C# Class\CheckZips\CheckZips\obj\Debug\CheckZips.csproj.GenerateResource.cache
+F:\C# Class\CheckZips\CheckZips\obj\Debug\CheckZips.csproj.CoreCompileInputs.cache
+F:\C# Class\CheckZips\CheckZips\obj\Debug\CheckZips.exe
+F:\C# Class\CheckZips\CheckZips\obj\Debug\CheckZips.pdb

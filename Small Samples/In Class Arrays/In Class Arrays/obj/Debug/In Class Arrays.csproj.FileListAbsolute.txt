@@ -1,0 +1,10 @@
+E:\C# Class\In Class Arrays\In Class Arrays\obj\Debug\In_Class_Arrays.Add_Grades.resources
+E:\C# Class\In Class Arrays\In Class Arrays\obj\Debug\In_Class_Arrays.Properties.Resources.resources
+E:\C# Class\In Class Arrays\In Class Arrays\obj\Debug\In Class Arrays.csproj.GenerateResource.cache
+E:\C# Class\In Class Arrays\In Class Arrays\obj\Debug\In Class Arrays.csproj.CoreCompileInputs.cache
+E:\C# Class\In Class Arrays\In Class Arrays\bin\Debug\In Class Arrays.exe.config
+E:\C# Class\In Class Arrays\In Class Arrays\bin\Debug\In Class Arrays.exe
+E:\C# Class\In Class Arrays\In Class Arrays\bin\Debug\In Class Arrays.pdb
+E:\C# Class\In Class Arrays\In Class Arrays\obj\Debug\In Class Arrays.exe
+E:\C# Class\In Class Arrays\In Class Arrays\obj\Debug\In Class Arrays.pdb
+E:\C# Class\In Class Arrays\In Class Arrays\obj\Debug\In Class Arrays.csproj.AssemblyReference.cache

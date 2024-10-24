@@ -1,0 +1,32 @@
+D:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\bin\Debug\Activity 4.1_Detterman.exe.config
+D:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\bin\Debug\Activity 4.1_Detterman.exe
+D:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\bin\Debug\Activity 4.1_Detterman.pdb
+D:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\obj\Debug\Activity 4.1_Detterman.csproj.AssemblyReference.cache
+D:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\obj\Debug\Activity 4.1_Detterman.csproj.SuggestedBindingRedirects.cache
+D:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\obj\Debug\Activity_4._1_Detterman.Form1.resources
+D:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\obj\Debug\Activity_4._1_Detterman.Properties.Resources.resources
+D:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\obj\Debug\Activity 4.1_Detterman.csproj.GenerateResource.cache
+D:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\obj\Debug\Activity 4.1_Detterman.csproj.CoreCompileInputs.cache
+D:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\obj\Debug\Activity 4.1_Detterman.exe
+D:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\obj\Debug\Activity 4.1_Detterman.pdb
+D:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\obj\Debug\Activity_4._1_Detterman.Twitter.resources
+D:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\obj\Debug\Activity_4._1_Detterman.Admission.resources
+D:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\obj\Debug\Activity_4._1_Detterman.Hurricane.resources
+D:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\obj\Debug\Activity_4._1_Detterman.CheckMonth.resources
+E:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\bin\Debug\Activity 4.1_Detterman.exe.config
+E:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\bin\Debug\Activity 4.1_Detterman.exe
+E:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\bin\Debug\Activity 4.1_Detterman.pdb
+E:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\obj\Debug\Activity 4.1_Detterman.csproj.AssemblyReference.cache
+E:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\obj\Debug\Activity_4._1_Detterman.Admission.resources
+E:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\obj\Debug\Activity_4._1_Detterman.Form1.resources
+E:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\obj\Debug\Activity_4._1_Detterman.CheckMonth.resources
+E:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\obj\Debug\Activity_4._1_Detterman.CheckMonth2.resources
+E:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\obj\Debug\Activity_4._1_Detterman.Hurricane.resources
+E:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\obj\Debug\Activity_4._1_Detterman.Properties.Resources.resources
+E:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\obj\Debug\Activity_4._1_Detterman.Twitter.resources
+E:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\obj\Debug\Activity 4.1_Detterman.csproj.GenerateResource.cache
+E:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\obj\Debug\Activity 4.1_Detterman.csproj.CoreCompileInputs.cache
+E:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\obj\Debug\Activity 4.1_Detterman.exe
+E:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\obj\Debug\Activity 4.1_Detterman.pdb
+E:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\obj\Debug\Activity_4._1_Detterman.GuessingGame.resources
+E:\C# Class\Activity 4.1_Detterman\Activity 4.1_Detterman\obj\Debug\Activity_4._1_Detterman.RockPaperScissors.resources

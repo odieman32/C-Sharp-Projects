@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C# Class\\Activity 2.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A11BD68-BA11-452D-B839-FB5F495765A7}|Activity 2.1\\Activity 2.1.csproj|f:\\c# class\\activity 2.1\\activity 2.1\\inchestocentimeters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A11BD68-BA11-452D-B839-FB5F495765A7}|Activity 2.1\\Activity 2.1.csproj|solutionrelative:activity 2.1\\inchestocentimeters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A11BD68-BA11-452D-B839-FB5F495765A7}|Activity 2.1\\Activity 2.1.csproj|F:\\C# Class\\Activity 2.1\\activity 2.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A11BD68-BA11-452D-B839-FB5F495765A7}|Activity 2.1\\Activity 2.1.csproj|solutionrelative:activity 2.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InchesToCentimeters.cs [Design]",
+              "DocumentMoniker": "F:\\C# Class\\Activity 2.1\\Activity 2.1\\InchesToCentimeters.cs",
+              "RelativeDocumentMoniker": "Activity 2.1\\InchesToCentimeters.cs",
+              "ToolTip": "F:\\C# Class\\Activity 2.1\\Activity 2.1\\InchesToCentimeters.cs [Design]",
+              "RelativeToolTip": "Activity 2.1\\InchesToCentimeters.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:29:17.784Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\C# Class\\Activity 2.1\\Activity 2.1\\Program.cs",
+              "RelativeDocumentMoniker": "Activity 2.1\\Program.cs",
+              "ToolTip": "F:\\C# Class\\Activity 2.1\\Activity 2.1\\Program.cs",
+              "RelativeToolTip": "Activity 2.1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T00:29:17.813Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
